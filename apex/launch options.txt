@@ -1,0 +1,1 @@
++fps_max 75 -novid +exec autoexec.cfg
